@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgvwsyawhpwau"
+path="res://.godot/imported/Final Fantasy Brave Exvius - Menu theme.mp3-fd72439ab4b3a3d0d7b9a234cd70e6c5.mp3str"
+
+[deps]
+
+source_file="res://Scenes/Final Fantasy Brave Exvius - Menu theme.mp3"
+dest_files=["res://.godot/imported/Final Fantasy Brave Exvius - Menu theme.mp3-fd72439ab4b3a3d0d7b9a234cd70e6c5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

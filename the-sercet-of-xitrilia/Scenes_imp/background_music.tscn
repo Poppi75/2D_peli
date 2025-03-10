@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://blje2enomcded"]
+
+[ext_resource type="AudioStream" uid="uid://cgvwsyawhpwau" path="res://Scenes/Final Fantasy Brave Exvius - Menu theme.mp3" id="1_isbv3"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_isbv3")
+volume_db = -2.0
+autoplay = true
